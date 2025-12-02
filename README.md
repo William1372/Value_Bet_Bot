@@ -17,7 +17,9 @@ A simple Python bot that fetches odds from TheOddsAPI, compares bookmakers, find
 ## Setup
 1. Create a `.env` file:
    THE_ODDS_API_KEY=your_api_key
+   
    TELEGRAM_BOT_TOKEN=your_bot_token
+   
    TELEGRAM_CHAT_ID=your_chat_id
    
 3. Edit configuration in `main.py`:
